@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "com.chen.user.config.RedissonConfig",
+      "sourceType": "com.chen.user.config.RedissonConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.chen.user.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.String",
+      "sourceType": "com.chen.user.config.RedissonConfig"
+    }
+  ],
+  "hints": []
+}
